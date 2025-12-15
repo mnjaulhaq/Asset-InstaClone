@@ -123,7 +123,7 @@ CLOUDINARY_API_SECRET=120094
 ```
 ## ▶️ How to Run Locally
 
-## Backend
+#### Backend
 ```sh
 cd backend
 npm install
@@ -131,7 +131,7 @@ npx prisma migrate dev
 npm run dev
 ```
 
-## Frontend
+#### Frontend
 ```sh
 cd frontend
 npm install
